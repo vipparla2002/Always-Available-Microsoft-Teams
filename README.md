@@ -40,6 +40,7 @@ This AutoHotkey v2 script provides a GUI-based mouse click automation tool, prim
 <img width="421" height="509" alt="image" src="https://github.com/user-attachments/assets/6251d001-cd3e-4f52-8de8-0b52f0c7d8fb" />
 in the above image, a click would be made every 250000ms/250s/4m.10s
 
+
 <img width="375" height="492" alt="image" src="https://github.com/user-attachments/assets/0dbedab7-c30f-4d55-a191-22e57417fb0e" />
 in this image, a click would be made every 11000ms/11s
 
