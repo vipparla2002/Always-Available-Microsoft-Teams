@@ -24,8 +24,9 @@ This AutoHotkey v2 script provides a GUI-based mouse click automation tool, prim
 - Hotkeys:
   - `F8`: Toggle start/stop
   - `Ctrl+Shift+G`: Show the GUI
- 
-<img width="613" height="540" alt="image" src="https://github.com/user-attachments/assets/7fa06f70-cae7-4130-9241-58fc1d0ae3ea" />
+
+ <img width="411" height="540" alt="Screenshot 2026-01-25 204327" src="https://github.com/user-attachments/assets/7bba416d-425e-4810-a4bc-4375758be0de" />
+
 
 ## Usage
 1. Run the script with AutoHotkey v2.
