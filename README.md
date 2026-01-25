@@ -9,6 +9,11 @@
 3. Double-click the EXE file to run it.
 4. If Windows shows a warning, click 'More info' and choose 'Run anyway'.
 
+<img width="811" height="760" alt="image" src="https://github.com/user-attachments/assets/fc91a7e9-6304-4460-8de5-eace6481da5b" />
+
+
+
+
 ## Overview
 This AutoHotkey v2 script provides a GUI-based mouse click automation tool, primarily designed to automate clicking in Microsoft Teams. It features a simple interface to start and stop the clicker, set the click interval, and monitor click activity.
 
